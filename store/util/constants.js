@@ -1,4 +1,4 @@
-export const ROOT_URL = "https://berhentiapi.onrender.com";
+export const ROOT_URL = "https://berhentiapi.onrender.com/api";
 // export const ROOT_URL = 'http://localhost:9090/api';
 
 export const API_KEY = "?key=berhenti-user";
